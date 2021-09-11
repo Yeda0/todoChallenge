@@ -14,6 +14,7 @@ export function Home() {
 
   function handleToggleTaskDone(id: number) {
     //TODO - toggle task done if exists
+    
   }
 
   function handleRemoveTask(id: number) {
